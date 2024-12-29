@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Fullstack | Freelancer | Hispano-Brasileiro | São Paulo, Brasil 🌆
 
-![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Developer](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ## Sobre Mim
 
@@ -76,6 +76,6 @@ Aqui estão alguns dos meus projetos favoritos:
 
 ---
 
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 Obrigado por visitar meu perfil! Vamos fazer algo incrível juntos!

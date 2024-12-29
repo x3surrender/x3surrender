@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o [Seu Nome]!
+# 🇪🇸🇧🇷 Olá! Eu sou o [Seu Nome]!
 
 ### Desenvolvedor Fullstack | Freelancer | Hispano-Brasileiro | São Paulo, Brasil 🌆
 
@@ -17,17 +17,48 @@ Olá! Eu sou um desenvolvedor fullstack apaixonado por criar soluções inovador
 
 ## Minhas Ferramentas e Tecnologias 🛠
 
-- **Frontend:** React, Angular, Vue.js, HTML5, CSS3, JavaScript, TypeScript
-- **Backend:** Node.js, Express, Django, Flask, Ruby on Rails
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins, AWS, GCP
-- **Outras:** Git, GitHub, Bitbucket, Jira, Trello
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Outras
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 ## Curiosidades Sobre Mim 😎
 
-- Sou um entusiasta de café ☕ e não começo o dia sem uma xícara!
+- Sou um entusiasta de chá 🍵 e não começo o dia sem uma xícara!
+- Adoro caminhar pela praia e apreciar a natureza 🌊.
+- Falo português e espanhol.
 - Amo explorar novas tecnologias e sempre estou em busca de aprender algo novo.
-- Quando não estou codando, você pode me encontrar jogando videogame ou assistindo a séries de ficção científica.
+- Quando não estou codando, você pode me encontrar lendo um bom livro ou assistindo a séries de ficção científica.
 
 ## Vamos Conectar? 🌐
 

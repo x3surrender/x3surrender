@@ -69,8 +69,8 @@ Soy **bachiller en filosofía** por la **Universidad Pontificia Salesiana**. ¡L
 Aquí puedes ver mi actividad en GitHub:
 
 <div>
-  <iframe src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" width="400" height="200"></iframe>
-  <iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" width="400" height="200"></iframe>
+  <iframe src="https://github-readme-stats.vercel.app/api?username=x3surrender&show_icons=true&theme=radical" width="400" height="200"></iframe>
+  <iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=x3surrender&layout=compact&theme=radical" width="400" height="200"></iframe>
 </div>
 
 *Reemplaza `tu_usuario` con tu nombre de usuario de GitHub.*

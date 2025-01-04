@@ -68,8 +68,12 @@ Soy **bachiller en filosofía** por la **Universidad Pontificia Salesiana**. ¡L
 
 Aquí puedes ver mi actividad en GitHub:
 
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->
+
 <div>
-  <iframe src="https://github-readme-stats.vercel.app/api?username=x3surrender&show_icons=true&theme=radical" width="400" height="200"></iframe>
+  <iframe src="[https://github-readme-stats.vercel.app/api?username=x3surrender&show_icons=true&theme=radical" width="400" height="200](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)"></iframe>
   <iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=x3surrender&layout=compact&theme=radical" width="400" height="200"></iframe>
 </div>
 
